@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[chrome valid name]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="685" started-at="2020-08-10T11:39:42Z" finished-at="2020-08-10T11:39:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="685" started-at="2020-08-10T11:39:42Z" finished-at="2020-08-10T11:39:43Z">
+      <class name="ReadPropertiesFile">
+        <test-method status="PASS" signature="m1()[pri:0, instance:ReadPropertiesFile@573f2bb1]" name="m1" duration-ms="112" started-at="2020-08-10T17:09:43Z" finished-at="2020-08-10T17:09:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome valid name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- ReadPropertiesFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
